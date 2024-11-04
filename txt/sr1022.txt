@@ -1,0 +1,50 @@
+nohup: ignoring input
+start at  2024-10-22 06:41:09
+torch.Size([8591, 4096])
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-001_clean_raw/sub-001_ses-001_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-001_clean_raw/sub-001_ses-001_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+8591 matching events found
+No baseline correction applied
+0 projection items activated
+torch.Size([6873, 4096]) torch.Size([1718, 4096]) torch.Size([6873, 269, 301]) torch.Size([1718, 269, 301])
+Processing alpha: 0.01
+Processing iteration 0 at:  2024-10-22 06:41:26
+finish iteration 0 at:  2024-10-22 06:41:27
+Processing iteration 1 at:  2024-10-22 06:41:27
+finish iteration 1 at:  2024-10-22 06:41:27
+Processing iteration 2 at:  2024-10-22 06:41:27
+finish iteration 2 at:  2024-10-22 06:41:27
+Processing iteration 3 at:  2024-10-22 06:41:27
+finish iteration 3 at:  2024-10-22 06:41:27
+Processing iteration 4 at:  2024-10-22 06:41:27
+finish iteration 4 at:  2024-10-22 06:41:27
+Processing iteration 5 at:  2024-10-22 06:41:27
+finish iteration 5 at:  2024-10-22 06:41:27
+Processing iteration 6 at:  2024-10-22 06:41:27
+finish iteration 6 at:  2024-10-22 06:41:27
+Processing iteration 7 at:  2024-10-22 06:41:27
+finish iteration 7 at:  2024-10-22 06:41:28
+Processing iteration 8 at:  2024-10-22 06:41:28
+finish iteration 8 at:  2024-10-22 06:41:28
+Processing iteration 9 at:  2024-10-22 06:41:28
+Traceback (most recent call last):
+  File "/home/zhiang/code/sensor_regression.py", line 197, in <module>
+    loop(i)
+  File "/home/zhiang/code/sensor_regression.py", line 145, in loop
+    W = ridge_weights_gpu(Xtrain, Ys, alpha)
+  File "/home/zhiang/code/sensor_regression.py", line 28, in ridge_weights_gpu
+    inv_matrix = torch.inverse(XTX_plus_lambda)
+RuntimeError: CUDA error: an illegal memory access was encountered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+

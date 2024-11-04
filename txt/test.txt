@@ -1,0 +1,151 @@
+nohup: ignoring input
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-001_clean_raw/sub-001_ses-001_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-001_clean_raw/sub-001_ses-001_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+8591 matching events found
+No baseline correction applied
+0 projection items activated
+8622 8622
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-002_clean_raw/sub-001_ses-002_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-002_clean_raw/sub-001_ses-002_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+9192 matching events found
+No baseline correction applied
+0 projection items activated
+9219 9221
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-003_clean_raw/sub-001_ses-003_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-003_clean_raw/sub-001_ses-003_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+6927 matching events found
+No baseline correction applied
+0 projection items activated
+7035 7038
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-004_clean_raw/sub-001_ses-004_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-004_clean_raw/sub-001_ses-004_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+9646 matching events found
+No baseline correction applied
+0 projection items activated
+9698 9701
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-005_clean_raw/sub-001_ses-005_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-005_clean_raw/sub-001_ses-005_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+7324 matching events found
+No baseline correction applied
+0 projection items activated
+7415 7420
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-006_clean_raw/sub-001_ses-006_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-006_clean_raw/sub-001_ses-006_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+9253 matching events found
+No baseline correction applied
+0 projection items activated
+9331 9334
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-007_clean_raw/sub-001_ses-007_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-007_clean_raw/sub-001_ses-007_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+7877 matching events found
+No baseline correction applied
+0 projection items activated
+7910 7912
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-008_clean_raw/sub-001_ses-008_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-008_clean_raw/sub-001_ses-008_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+9862 matching events found
+No baseline correction applied
+0 projection items activated
+9910 9918
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-009_clean_raw/sub-001_ses-009_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-009_clean_raw/sub-001_ses-009_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+8290 matching events found
+No baseline correction applied
+0 projection items activated
+8361 8365
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-010_clean_raw/sub-001_ses-010_epoch_wdonset-epo.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Reading /data/zhiang/holmes/preproc_new_upload/sub-001_ses-010_clean_raw/sub-001_ses-010_epoch_wdonset-epo-1.fif ...
+    Read 5 compensation matrices
+    Found the data of interest:
+        t =    -200.00 ...    1000.00 ms
+        5 CTF compensation matrices available
+Adding metadata with 3 columns
+8153 matching events found
+No baseline correction applied
+0 projection items activated
+8189 8188

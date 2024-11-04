@@ -1,0 +1,349 @@
+nohup: ignoring input
+start at 2024-10-22 05:46:58
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]/home/zhiang/miniconda3/envs/l/lib/python3.9/site-packages/torch/_utils.py:776: UserWarning: TypedStorage is deprecated. It will be removed in the future and UntypedStorage will be the only storage class. This should only matter to you if you are using storages directly.  To access UntypedStorage directly, use tensor.untyped_storage() instead of tensor.storage()
+  return self.fget.__get__(instance, owner)()
+Loading checkpoint shards:  50%|█████     | 1/2 [00:06<00:06,  6.20s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.40s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.82s/it]
+start running... at 2024-10-22 05:47:15
+model_step:  iter_0010000 layer:  0 session:  1 run:  1
+  0%|          | 0/72 [00:00<?, ?it/s]Starting from v4.46, the `logits` model output will have the same type as the model (except at train time, where it will always be FP32)
+100%|██████████| 72/72 [00:06<00:00, 11.51it/s]
+torch.Size([1258, 4096])
+1258
+start running... at 2024-10-22 05:47:21
+model_step:  iter_0010000 layer:  0 session:  1 run:  2
+  0%|          | 0/70 [00:00<?, ?it/s]100%|██████████| 70/70 [00:02<00:00, 29.99it/s]
+torch.Size([863, 4096])
+863
+start running... at 2024-10-22 05:47:24
+model_step:  iter_0010000 layer:  0 session:  1 run:  3
+  0%|          | 0/133 [00:00<?, ?it/s]100%|██████████| 133/133 [00:03<00:00, 35.42it/s]
+torch.Size([1365, 4096])
+1365
+start running... at 2024-10-22 05:47:27
+model_step:  iter_0010000 layer:  0 session:  1 run:  4
+  0%|          | 0/84 [00:00<?, ?it/s]100%|██████████| 84/84 [00:03<00:00, 24.27it/s]
+torch.Size([1423, 4096])
+1423
+start running... at 2024-10-22 05:47:31
+model_step:  iter_0010000 layer:  0 session:  1 run:  5
+  0%|          | 0/103 [00:00<?, ?it/s]100%|██████████| 103/103 [00:03<00:00, 33.09it/s]
+torch.Size([1270, 4096])
+1270
+start running... at 2024-10-22 05:47:34
+model_step:  iter_0010000 layer:  0 session:  1 run:  6
+  0%|          | 0/93 [00:00<?, ?it/s]100%|██████████| 93/93 [00:03<00:00, 29.48it/s]
+torch.Size([1353, 4096])
+1353
+start running... at 2024-10-22 05:47:37
+model_step:  iter_0010000 layer:  0 session:  1 run:  7
+  0%|          | 0/95 [00:00<?, ?it/s]100%|██████████| 95/95 [00:02<00:00, 35.36it/s]
+torch.Size([1090, 4096])
+1090
+start running... at 2024-10-22 05:47:40
+model_step:  iter_0010000 layer:  0 session:  2 run:  1
+  0%|          | 0/60 [00:00<?, ?it/s]100%|██████████| 60/60 [00:02<00:00, 21.54it/s]
+torch.Size([1183, 4096])
+1183
+start running... at 2024-10-22 05:47:43
+model_step:  iter_0010000 layer:  0 session:  2 run:  2
+  0%|          | 0/73 [00:00<?, ?it/s]100%|██████████| 73/73 [00:03<00:00, 20.67it/s]
+torch.Size([1429, 4096])
+1429
+start running... at 2024-10-22 05:47:46
+model_step:  iter_0010000 layer:  0 session:  2 run:  3
+  0%|          | 0/79 [00:00<?, ?it/s]100%|██████████| 79/79 [00:03<00:00, 24.51it/s]
+torch.Size([1292, 4096])
+1292
+start running... at 2024-10-22 05:47:50
+model_step:  iter_0010000 layer:  0 session:  2 run:  4
+  0%|          | 0/96 [00:00<?, ?it/s]100%|██████████| 96/96 [00:02<00:00, 32.55it/s]
+torch.Size([1159, 4096])
+1159
+start running... at 2024-10-22 05:47:53
+model_step:  iter_0010000 layer:  0 session:  2 run:  5
+  0%|          | 0/61 [00:00<?, ?it/s]100%|██████████| 61/61 [00:02<00:00, 21.16it/s]
+torch.Size([1182, 4096])
+1182
+start running... at 2024-10-22 05:47:55
+model_step:  iter_0010000 layer:  0 session:  2 run:  6
+  0%|          | 0/87 [00:00<?, ?it/s]100%|██████████| 87/87 [00:03<00:00, 23.14it/s]
+torch.Size([1504, 4096])
+1504
+start running... at 2024-10-22 05:47:59
+model_step:  iter_0010000 layer:  0 session:  2 run:  7
+  0%|          | 0/91 [00:00<?, ?it/s]100%|██████████| 91/91 [00:03<00:00, 25.37it/s]
+torch.Size([1473, 4096])
+1473
+start running... at 2024-10-22 05:48:03
+model_step:  iter_0010000 layer:  0 session:  3 run:  1
+  0%|          | 0/47 [00:00<?, ?it/s]100%|██████████| 47/47 [00:02<00:00, 20.74it/s]
+torch.Size([996, 4096])
+996
+start running... at 2024-10-22 05:48:05
+model_step:  iter_0010000 layer:  0 session:  3 run:  2
+  0%|          | 0/41 [00:00<?, ?it/s]100%|██████████| 41/41 [00:02<00:00, 19.55it/s]
+torch.Size([824, 4096])
+824
+start running... at 2024-10-22 05:48:07
+model_step:  iter_0010000 layer:  0 session:  3 run:  3
+  0%|          | 0/113 [00:00<?, ?it/s]100%|██████████| 113/113 [00:04<00:00, 24.77it/s]
+torch.Size([1746, 4096])
+1746
+start running... at 2024-10-22 05:48:12
+model_step:  iter_0010000 layer:  0 session:  3 run:  4
+  0%|          | 0/68 [00:00<?, ?it/s]100%|██████████| 68/68 [00:03<00:00, 21.34it/s]
+torch.Size([1238, 4096])
+1238
+start running... at 2024-10-22 05:48:15
+model_step:  iter_0010000 layer:  0 session:  3 run:  5
+  0%|          | 0/57 [00:00<?, ?it/s]100%|██████████| 57/57 [00:02<00:00, 24.19it/s]
+torch.Size([978, 4096])
+978
+start running... at 2024-10-22 05:48:17
+model_step:  iter_0010000 layer:  0 session:  3 run:  6
+  0%|          | 0/57 [00:00<?, ?it/s]100%|██████████| 57/57 [00:03<00:00, 18.86it/s]
+torch.Size([1259, 4096])
+1259
+start running... at 2024-10-22 05:48:20
+model_step:  iter_0010000 layer:  0 session:  4 run:  1
+  0%|          | 0/74 [00:00<?, ?it/s]100%|██████████| 74/74 [00:03<00:00, 24.31it/s]
+torch.Size([1323, 4096])
+1323
+start running... at 2024-10-22 05:48:24
+model_step:  iter_0010000 layer:  0 session:  4 run:  2
+  0%|          | 0/38 [00:00<?, ?it/s]100%|██████████| 38/38 [00:02<00:00, 18.57it/s]
+torch.Size([859, 4096])
+859
+start running... at 2024-10-22 05:48:26
+model_step:  iter_0010000 layer:  0 session:  4 run:  3
+  0%|          | 0/66 [00:00<?, ?it/s]100%|██████████| 66/66 [00:02<00:00, 24.88it/s]
+torch.Size([1109, 4096])
+1109
+start running... at 2024-10-22 05:48:28
+model_step:  iter_0010000 layer:  0 session:  4 run:  4
+  0%|          | 0/88 [00:00<?, ?it/s]100%|██████████| 88/88 [00:02<00:00, 32.69it/s]
+torch.Size([1085, 4096])
+1085
+start running... at 2024-10-22 05:48:31
+model_step:  iter_0010000 layer:  0 session:  4 run:  5
+  0%|          | 0/83 [00:00<?, ?it/s]100%|██████████| 83/83 [00:03<00:00, 21.53it/s]
+torch.Size([1542, 4096])
+1542
+start running... at 2024-10-22 05:48:35
+model_step:  iter_0010000 layer:  0 session:  4 run:  6
+  0%|          | 0/88 [00:00<?, ?it/s]100%|██████████| 88/88 [00:02<00:00, 31.43it/s]
+torch.Size([1206, 4096])
+1206
+start running... at 2024-10-22 05:48:38
+model_step:  iter_0010000 layer:  0 session:  4 run:  7
+  0%|          | 0/110 [00:00<?, ?it/s]100%|██████████| 110/110 [00:03<00:00, 32.73it/s]
+torch.Size([1339, 4096])
+1339
+start running... at 2024-10-22 05:48:41
+model_step:  iter_0010000 layer:  0 session:  4 run:  8
+  0%|          | 0/71 [00:00<?, ?it/s]100%|██████████| 71/71 [00:02<00:00, 25.69it/s]
+torch.Size([1239, 4096])
+1239
+start running... at 2024-10-22 05:48:44
+model_step:  iter_0010000 layer:  0 session:  5 run:  1
+  0%|          | 0/59 [00:00<?, ?it/s]100%|██████████| 59/59 [00:02<00:00, 22.22it/s]
+torch.Size([1102, 4096])
+1102
+start running... at 2024-10-22 05:48:47
+model_step:  iter_0010000 layer:  0 session:  5 run:  2
+  0%|          | 0/65 [00:00<?, ?it/s]100%|██████████| 65/65 [00:03<00:00, 18.31it/s]
+torch.Size([1495, 4096])
+1495
+start running... at 2024-10-22 05:48:50
+model_step:  iter_0010000 layer:  0 session:  5 run:  3
+  0%|          | 0/55 [00:00<?, ?it/s]100%|██████████| 55/55 [00:02<00:00, 26.77it/s]
+torch.Size([875, 4096])
+875
+start running... at 2024-10-22 05:48:52
+model_step:  iter_0010000 layer:  0 session:  5 run:  4
+  0%|          | 0/88 [00:00<?, ?it/s]100%|██████████| 88/88 [00:02<00:00, 34.40it/s]
+torch.Size([978, 4096])
+978
+start running... at 2024-10-22 05:48:55
+model_step:  iter_0010000 layer:  0 session:  5 run:  5
+  0%|          | 0/89 [00:00<?, ?it/s]100%|██████████| 89/89 [00:03<00:00, 22.65it/s]
+torch.Size([1655, 4096])
+1655
+start running... at 2024-10-22 05:48:59
+model_step:  iter_0010000 layer:  0 session:  5 run:  6
+  0%|          | 0/90 [00:00<?, ?it/s]100%|██████████| 90/90 [00:03<00:00, 26.96it/s]
+torch.Size([1315, 4096])
+1315
+start running... at 2024-10-22 05:49:02
+model_step:  iter_0010000 layer:  0 session:  6 run:  1
+  0%|          | 0/102 [00:00<?, ?it/s]100%|██████████| 102/102 [00:04<00:00, 23.55it/s]
+torch.Size([1664, 4096])
+1664
+start running... at 2024-10-22 05:49:06
+model_step:  iter_0010000 layer:  0 session:  6 run:  2
+  0%|          | 0/57 [00:00<?, ?it/s]100%|██████████| 57/57 [00:02<00:00, 24.38it/s]
+torch.Size([927, 4096])
+927
+start running... at 2024-10-22 05:49:09
+model_step:  iter_0010000 layer:  0 session:  6 run:  3
+  0%|          | 0/56 [00:00<?, ?it/s]100%|██████████| 56/56 [00:03<00:00, 15.46it/s]
+torch.Size([1545, 4096])
+1545
+start running... at 2024-10-22 05:49:12
+model_step:  iter_0010000 layer:  0 session:  6 run:  4
+  0%|          | 0/47 [00:00<?, ?it/s]100%|██████████| 47/47 [00:02<00:00, 21.42it/s]
+torch.Size([971, 4096])
+971
+start running... at 2024-10-22 05:49:15
+model_step:  iter_0010000 layer:  0 session:  6 run:  5
+  0%|          | 0/124 [00:00<?, ?it/s]100%|██████████| 124/124 [00:03<00:00, 34.65it/s]
+torch.Size([1329, 4096])
+1329
+start running... at 2024-10-22 05:49:18
+model_step:  iter_0010000 layer:  0 session:  6 run:  6
+  0%|          | 0/91 [00:00<?, ?it/s]100%|██████████| 91/91 [00:03<00:00, 27.08it/s]
+torch.Size([1305, 4096])
+1305
+start running... at 2024-10-22 05:49:22
+model_step:  iter_0010000 layer:  0 session:  6 run:  7
+  0%|          | 0/84 [00:00<?, ?it/s]100%|██████████| 84/84 [00:03<00:00, 21.50it/s]
+torch.Size([1593, 4096])
+1593
+start running... at 2024-10-22 05:49:26
+model_step:  iter_0010000 layer:  0 session:  7 run:  1
+  0%|          | 0/63 [00:00<?, ?it/s]100%|██████████| 63/63 [00:02<00:00, 24.04it/s]
+torch.Size([1106, 4096])
+1106
+start running... at 2024-10-22 05:49:28
+model_step:  iter_0010000 layer:  0 session:  7 run:  2
+  0%|          | 0/90 [00:00<?, ?it/s]100%|██████████| 90/90 [00:03<00:00, 22.56it/s]
+torch.Size([1589, 4096])
+1589
+start running... at 2024-10-22 05:49:32
+model_step:  iter_0010000 layer:  0 session:  7 run:  3
+  0%|          | 0/93 [00:00<?, ?it/s]100%|██████████| 93/93 [00:02<00:00, 31.30it/s]
+torch.Size([1513, 4096])
+1513
+start running... at 2024-10-22 05:49:35
+model_step:  iter_0010000 layer:  0 session:  7 run:  4
+  0%|          | 0/106 [00:00<?, ?it/s]100%|██████████| 106/106 [00:01<00:00, 57.64it/s]
+torch.Size([1421, 4096])
+1421
+start running... at 2024-10-22 05:49:37
+model_step:  iter_0010000 layer:  0 session:  7 run:  5
+  0%|          | 0/91 [00:00<?, ?it/s]100%|██████████| 91/91 [00:01<00:00, 68.68it/s]
+torch.Size([1094, 4096])
+1094
+start running... at 2024-10-22 05:49:38
+model_step:  iter_0010000 layer:  0 session:  7 run:  6
+  0%|          | 0/73 [00:00<?, ?it/s]100%|██████████| 73/73 [00:01<00:00, 54.57it/s]
+torch.Size([1189, 4096])
+1189
+start running... at 2024-10-22 05:49:40
+model_step:  iter_0010000 layer:  0 session:  8 run:  1
+  0%|          | 0/63 [00:00<?, ?it/s]100%|██████████| 63/63 [00:01<00:00, 43.51it/s]
+torch.Size([1278, 4096])
+1278
+start running... at 2024-10-22 05:49:41
+model_step:  iter_0010000 layer:  0 session:  8 run:  2
+  0%|          | 0/66 [00:00<?, ?it/s]100%|██████████| 66/66 [00:01<00:00, 44.40it/s]
+torch.Size([1341, 4096])
+1341
+start running... at 2024-10-22 05:49:43
+model_step:  iter_0010000 layer:  0 session:  8 run:  3
+  0%|          | 0/87 [00:00<?, ?it/s]100%|██████████| 87/87 [00:01<00:00, 54.30it/s]
+torch.Size([1394, 4096])
+1394
+start running... at 2024-10-22 05:49:44
+model_step:  iter_0010000 layer:  0 session:  8 run:  4
+  0%|          | 0/69 [00:00<?, ?it/s]100%|██████████| 69/69 [00:01<00:00, 53.75it/s]
+torch.Size([1041, 4096])
+1041
+start running... at 2024-10-22 05:49:46
+model_step:  iter_0010000 layer:  0 session:  8 run:  5
+  0%|          | 0/95 [00:00<?, ?it/s]100%|██████████| 95/95 [00:03<00:00, 28.90it/s]
+torch.Size([1475, 4096])
+1475
+start running... at 2024-10-22 05:49:49
+model_step:  iter_0010000 layer:  0 session:  8 run:  6
+  0%|          | 0/107 [00:00<?, ?it/s]100%|██████████| 107/107 [00:03<00:00, 31.57it/s]
+torch.Size([1351, 4096])
+1351
+start running... at 2024-10-22 05:49:52
+model_step:  iter_0010000 layer:  0 session:  8 run:  7
+  0%|          | 0/105 [00:00<?, ?it/s]100%|██████████| 105/105 [00:04<00:00, 21.67it/s]
+torch.Size([2038, 4096])
+2038
+start running... at 2024-10-22 05:49:57
+model_step:  iter_0010000 layer:  0 session:  9 run:  1
+  0%|          | 0/84 [00:00<?, ?it/s]100%|██████████| 84/84 [00:03<00:00, 24.34it/s]
+torch.Size([1409, 4096])
+1409
+start running... at 2024-10-22 05:50:01
+model_step:  iter_0010000 layer:  0 session:  9 run:  2
+  0%|          | 0/111 [00:00<?, ?it/s]100%|██████████| 111/111 [00:04<00:00, 23.85it/s]
+torch.Size([1844, 4096])
+1844
+start running... at 2024-10-22 05:50:05
+model_step:  iter_0010000 layer:  0 session:  9 run:  3
+  0%|          | 0/73 [00:00<?, ?it/s]100%|██████████| 73/73 [00:03<00:00, 21.18it/s]
+torch.Size([1449, 4096])
+1449
+start running... at 2024-10-22 05:50:09
+model_step:  iter_0010000 layer:  0 session:  9 run:  4
+  0%|          | 0/58 [00:00<?, ?it/s]100%|██████████| 58/58 [00:02<00:00, 22.18it/s]
+torch.Size([1142, 4096])
+1142
+start running... at 2024-10-22 05:50:12
+model_step:  iter_0010000 layer:  0 session:  9 run:  5
+  0%|          | 0/60 [00:00<?, ?it/s]100%|██████████| 60/60 [00:02<00:00, 25.43it/s]
+torch.Size([1045, 4096])
+1045
+start running... at 2024-10-22 05:50:14
+model_step:  iter_0010000 layer:  0 session:  9 run:  6
+  0%|          | 0/93 [00:00<?, ?it/s]100%|██████████| 93/93 [00:03<00:00, 24.71it/s]
+torch.Size([1476, 4096])
+1476
+start running... at 2024-10-22 05:50:18
+model_step:  iter_0010000 layer:  0 session:  10 run:  1
+  0%|          | 0/87 [00:00<?, ?it/s]100%|██████████| 87/87 [00:03<00:00, 22.20it/s]
+torch.Size([1549, 4096])
+1549
+start running... at 2024-10-22 05:50:22
+model_step:  iter_0010000 layer:  0 session:  10 run:  2
+  0%|          | 0/58 [00:00<?, ?it/s]100%|██████████| 58/58 [00:02<00:00, 21.90it/s]
+torch.Size([1039, 4096])
+1039
+start running... at 2024-10-22 05:50:24
+model_step:  iter_0010000 layer:  0 session:  10 run:  3
+  0%|          | 0/129 [00:00<?, ?it/s]100%|██████████| 129/129 [00:04<00:00, 31.79it/s]
+torch.Size([1549, 4096])
+1549
+start running... at 2024-10-22 05:50:28
+model_step:  iter_0010000 layer:  0 session:  10 run:  4
+  0%|          | 0/96 [00:00<?, ?it/s]100%|██████████| 96/96 [00:03<00:00, 31.66it/s]
+torch.Size([1105, 4096])
+1105
+start running... at 2024-10-22 05:50:31
+model_step:  iter_0010000 layer:  0 session:  10 run:  5
+  0%|          | 0/94 [00:00<?, ?it/s]100%|██████████| 94/94 [00:04<00:00, 19.77it/s]
+torch.Size([1963, 4096])
+1963
+start running... at 2024-10-22 05:50:36
+model_step:  iter_0010000 layer:  0 session:  10 run:  6
+  0%|          | 0/44 [00:00<?, ?it/s]100%|██████████| 44/44 [00:02<00:00, 19.15it/s]
+torch.Size([984, 4096])
+984
+model_step:  iter_0010000 layer:  0 sub:  3
+  0%|          | 0/10 [00:00<?, ?it/s] 10%|█         | 1/10 [00:00<00:03,  2.87it/s] 20%|██        | 2/10 [00:00<00:02,  2.81it/s] 30%|███       | 3/10 [00:00<00:02,  3.27it/s] 40%|████      | 4/10 [00:01<00:02,  2.86it/s] 50%|█████     | 5/10 [00:01<00:01,  3.14it/s] 60%|██████    | 6/10 [00:02<00:01,  2.98it/s] 70%|███████   | 7/10 [00:02<00:00,  3.12it/s] 80%|████████  | 8/10 [00:02<00:00,  2.97it/s] 90%|█████████ | 9/10 [00:02<00:00,  3.05it/s]100%|██████████| 10/10 [00:03<00:00,  3.12it/s]100%|██████████| 10/10 [00:03<00:00,  3.05it/s]
+(8622, 4096) (8622, 4096)
+(9222, 4096) (9221, 4096)
+(7041, 4096) (7038, 4096)
+(9702, 4096) (9701, 4096)
+(7420, 4096) (7420, 4096)
+(9334, 4096) (9334, 4096)
+(7912, 4096) (7912, 4096)
+(9918, 4096) (9918, 4096)
+(8365, 4096) (8365, 4096)
+(8189, 4096) (8188, 4096)
+finish at 2024-10-22 05:50:42

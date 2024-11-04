@@ -1,0 +1,3301 @@
+nohup: ignoring input
+start at  2024-10-26 04:57:20
+start sub_003 
+start session:1 at:  2024-10-26 04:57:20
+start moving YY_up to GPU at:  2024-10-26 04:57:49
+finish moving YY_up to GPU at:  2024-10-26 04:57:56
+skip up iter_0200000/layer0/sub-003/ses-001_up.npy
+skip up iter_0200000/layer1/sub-003/ses-001_up.npy
+skip up iter_0200000/layer2/sub-003/ses-001_up.npy
+skip up iter_0200000/layer3/sub-003/ses-001_up.npy
+skip up iter_0200000/layer4/sub-003/ses-001_up.npy
+skip up iter_0200000/layer5/sub-003/ses-001_up.npy
+skip up iter_0200000/layer6/sub-003/ses-001_up.npy
+skip up iter_0200000/layer7/sub-003/ses-001_up.npy
+skip up iter_0200000/layer8/sub-003/ses-001_up.npy
+skip up iter_0200000/layer9/sub-003/ses-001_up.npy
+skip up iter_0200000/layer10/sub-003/ses-001_up.npy
+skip up iter_0200000/layer11/sub-003/ses-001_up.npy
+skip up iter_0200000/layer12/sub-003/ses-001_up.npy
+skip up iter_0200000/layer13/sub-003/ses-001_up.npy
+skip up iter_0200000/layer14/sub-003/ses-001_up.npy
+skip up iter_0200000/layer15/sub-003/ses-001_up.npy
+skip up iter_0200000/layer16/sub-003/ses-001_up.npy
+skip up iter_0200000/layer17/sub-003/ses-001_up.npy
+skip up iter_0200000/layer18/sub-003/ses-001_up.npy
+skip up iter_0200000/layer19/sub-003/ses-001_up.npy
+skip up iter_0200000/layer20/sub-003/ses-001_up.npy
+skip up iter_0200000/layer21/sub-003/ses-001_up.npy
+skip up iter_0200000/layer22/sub-003/ses-001_up.npy
+skip up iter_0200000/layer23/sub-003/ses-001_up.npy
+skip up iter_0200000/layer24/sub-003/ses-001_up.npy
+skip up iter_0200000/layer25/sub-003/ses-001_up.npy
+skip up iter_0200000/layer26/sub-003/ses-001_up.npy
+skip up iter_0200000/layer27/sub-003/ses-001_up.npy
+skip up iter_0200000/layer28/sub-003/ses-001_up.npy
+skip up iter_0200000/layer29/sub-003/ses-001_up.npy
+skip up iter_0200000/layer30/sub-003/ses-001_up.npy
+skip up iter_0200000/layer31/sub-003/ses-001_up.npy
+skip up iter_0200000/layer32/sub-003/ses-001_up.npy
+skip up iter_0250000/layer0/sub-003/ses-001_up.npy
+skip up iter_0250000/layer1/sub-003/ses-001_up.npy
+skip up iter_0250000/layer2/sub-003/ses-001_up.npy
+skip up iter_0250000/layer3/sub-003/ses-001_up.npy
+skip up iter_0250000/layer4/sub-003/ses-001_up.npy
+skip up iter_0250000/layer5/sub-003/ses-001_up.npy
+skip up iter_0250000/layer6/sub-003/ses-001_up.npy
+skip up iter_0250000/layer7/sub-003/ses-001_up.npy
+skip up iter_0250000/layer8/sub-003/ses-001_up.npy
+skip up iter_0250000/layer9/sub-003/ses-001_up.npy
+skip up iter_0250000/layer10/sub-003/ses-001_up.npy
+skip up iter_0250000/layer11/sub-003/ses-001_up.npy
+skip up iter_0250000/layer12/sub-003/ses-001_up.npy
+skip up iter_0250000/layer13/sub-003/ses-001_up.npy
+skip up iter_0250000/layer14/sub-003/ses-001_up.npy
+skip up iter_0250000/layer15/sub-003/ses-001_up.npy
+skip up iter_0250000/layer16/sub-003/ses-001_up.npy
+skip up iter_0250000/layer17/sub-003/ses-001_up.npy
+skip up iter_0250000/layer18/sub-003/ses-001_up.npy
+skip up iter_0250000/layer19/sub-003/ses-001_up.npy
+skip up iter_0250000/layer20/sub-003/ses-001_up.npy
+skip up iter_0250000/layer21/sub-003/ses-001_up.npy
+skip up iter_0250000/layer22/sub-003/ses-001_up.npy
+skip up iter_0250000/layer23/sub-003/ses-001_up.npy
+skip up iter_0250000/layer24/sub-003/ses-001_up.npy
+skip up iter_0250000/layer25/sub-003/ses-001_up.npy
+skip up iter_0250000/layer26/sub-003/ses-001_up.npy
+skip up iter_0250000/layer27/sub-003/ses-001_up.npy
+skip up iter_0250000/layer28/sub-003/ses-001_up.npy
+skip up iter_0250000/layer29/sub-003/ses-001_up.npy
+skip up iter_0250000/layer30/sub-003/ses-001_up.npy
+skip up iter_0250000/layer31/sub-003/ses-001_up.npy
+skip up iter_0250000/layer32/sub-003/ses-001_up.npy
+skip up iter_0300000/layer0/sub-003/ses-001_up.npy
+skip up iter_0300000/layer1/sub-003/ses-001_up.npy
+skip up iter_0300000/layer2/sub-003/ses-001_up.npy
+skip up iter_0300000/layer3/sub-003/ses-001_up.npy
+skip up iter_0300000/layer4/sub-003/ses-001_up.npy
+skip up iter_0300000/layer5/sub-003/ses-001_up.npy
+skip up iter_0300000/layer6/sub-003/ses-001_up.npy
+skip up iter_0300000/layer7/sub-003/ses-001_up.npy
+skip up iter_0300000/layer8/sub-003/ses-001_up.npy
+skip up iter_0300000/layer9/sub-003/ses-001_up.npy
+skip up iter_0300000/layer10/sub-003/ses-001_up.npy
+skip up iter_0300000/layer11/sub-003/ses-001_up.npy
+skip up iter_0300000/layer12/sub-003/ses-001_up.npy
+skip up iter_0300000/layer13/sub-003/ses-001_up.npy
+skip up iter_0300000/layer14/sub-003/ses-001_up.npy
+skip up iter_0300000/layer15/sub-003/ses-001_up.npy
+skip up iter_0300000/layer16/sub-003/ses-001_up.npy
+skip up iter_0300000/layer17/sub-003/ses-001_up.npy
+skip up iter_0300000/layer18/sub-003/ses-001_up.npy
+skip up iter_0300000/layer19/sub-003/ses-001_up.npy
+skip up iter_0300000/layer20/sub-003/ses-001_up.npy
+skip up iter_0300000/layer21/sub-003/ses-001_up.npy
+skip up iter_0300000/layer22/sub-003/ses-001_up.npy
+skip up iter_0300000/layer23/sub-003/ses-001_up.npy
+skip up iter_0300000/layer24/sub-003/ses-001_up.npy
+skip up iter_0300000/layer25/sub-003/ses-001_up.npy
+skip up iter_0300000/layer26/sub-003/ses-001_up.npy
+skip up iter_0300000/layer27/sub-003/ses-001_up.npy
+skip up iter_0300000/layer28/sub-003/ses-001_up.npy
+skip up iter_0300000/layer29/sub-003/ses-001_up.npy
+skip up iter_0300000/layer30/sub-003/ses-001_up.npy
+skip up iter_0300000/layer31/sub-003/ses-001_up.npy
+skip up iter_0300000/layer32/sub-003/ses-001_up.npy
+skip up iter_0350000/layer0/sub-003/ses-001_up.npy
+skip up iter_0350000/layer1/sub-003/ses-001_up.npy
+skip up iter_0350000/layer2/sub-003/ses-001_up.npy
+skip up iter_0350000/layer3/sub-003/ses-001_up.npy
+skip up iter_0350000/layer4/sub-003/ses-001_up.npy
+skip up iter_0350000/layer5/sub-003/ses-001_up.npy
+skip up iter_0350000/layer6/sub-003/ses-001_up.npy
+skip up iter_0350000/layer7/sub-003/ses-001_up.npy
+skip up iter_0350000/layer8/sub-003/ses-001_up.npy
+skip up iter_0350000/layer9/sub-003/ses-001_up.npy
+skip up iter_0350000/layer10/sub-003/ses-001_up.npy
+skip up iter_0350000/layer11/sub-003/ses-001_up.npy
+skip up iter_0350000/layer12/sub-003/ses-001_up.npy
+skip up iter_0350000/layer13/sub-003/ses-001_up.npy
+skip up iter_0350000/layer14/sub-003/ses-001_up.npy
+skip up iter_0350000/layer15/sub-003/ses-001_up.npy
+skip up iter_0350000/layer16/sub-003/ses-001_up.npy
+skip up iter_0350000/layer17/sub-003/ses-001_up.npy
+skip up iter_0350000/layer18/sub-003/ses-001_up.npy
+skip up iter_0350000/layer19/sub-003/ses-001_up.npy
+skip up iter_0350000/layer20/sub-003/ses-001_up.npy
+skip up iter_0350000/layer21/sub-003/ses-001_up.npy
+skip up iter_0350000/layer22/sub-003/ses-001_up.npy
+skip up iter_0350000/layer23/sub-003/ses-001_up.npy
+skip up iter_0350000/layer24/sub-003/ses-001_up.npy
+skip up iter_0350000/layer25/sub-003/ses-001_up.npy
+skip up iter_0350000/layer26/sub-003/ses-001_up.npy
+skip up iter_0350000/layer27/sub-003/ses-001_up.npy
+skip up iter_0350000/layer28/sub-003/ses-001_up.npy
+skip up iter_0350000/layer29/sub-003/ses-001_up.npy
+skip up iter_0350000/layer30/sub-003/ses-001_up.npy
+skip up iter_0350000/layer31/sub-003/ses-001_up.npy
+skip up iter_0350000/layer32/sub-003/ses-001_up.npy
+skip up iter_0400000/layer0/sub-003/ses-001_up.npy
+skip up iter_0400000/layer1/sub-003/ses-001_up.npy
+skip up iter_0400000/layer2/sub-003/ses-001_up.npy
+skip up iter_0400000/layer3/sub-003/ses-001_up.npy
+skip up iter_0400000/layer4/sub-003/ses-001_up.npy
+skip up iter_0400000/layer5/sub-003/ses-001_up.npy
+skip up iter_0400000/layer6/sub-003/ses-001_up.npy
+skip up iter_0400000/layer7/sub-003/ses-001_up.npy
+skip up iter_0400000/layer8/sub-003/ses-001_up.npy
+skip up iter_0400000/layer9/sub-003/ses-001_up.npy
+skip up iter_0400000/layer10/sub-003/ses-001_up.npy
+skip up iter_0400000/layer11/sub-003/ses-001_up.npy
+skip up iter_0400000/layer12/sub-003/ses-001_up.npy
+skip up iter_0400000/layer13/sub-003/ses-001_up.npy
+skip up iter_0400000/layer14/sub-003/ses-001_up.npy
+skip up iter_0400000/layer15/sub-003/ses-001_up.npy
+skip up iter_0400000/layer16/sub-003/ses-001_up.npy
+skip up iter_0400000/layer17/sub-003/ses-001_up.npy
+skip up iter_0400000/layer18/sub-003/ses-001_up.npy
+skip up iter_0400000/layer19/sub-003/ses-001_up.npy
+skip up iter_0400000/layer20/sub-003/ses-001_up.npy
+skip up iter_0400000/layer21/sub-003/ses-001_up.npy
+skip up iter_0400000/layer22/sub-003/ses-001_up.npy
+skip up iter_0400000/layer23/sub-003/ses-001_up.npy
+skip up iter_0400000/layer24/sub-003/ses-001_up.npy
+skip up iter_0400000/layer25/sub-003/ses-001_up.npy
+skip up iter_0400000/layer26/sub-003/ses-001_up.npy
+skip up iter_0400000/layer27/sub-003/ses-001_up.npy
+skip up iter_0400000/layer28/sub-003/ses-001_up.npy
+skip up iter_0400000/layer29/sub-003/ses-001_up.npy
+skip up iter_0400000/layer30/sub-003/ses-001_up.npy
+skip up iter_0400000/layer31/sub-003/ses-001_up.npy
+skip up iter_0400000/layer32/sub-003/ses-001_up.npy
+start moving YY_middle to GPU at:  2024-10-26 04:57:56
+finish moving YY_middle to GPU at:  2024-10-26 04:58:01
+skip middle iter_0200000/layer0/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer1/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer2/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer3/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer4/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer5/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer6/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer7/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer8/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer9/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer10/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer11/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer12/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer13/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer14/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer15/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer16/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer17/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer18/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer19/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer20/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer21/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer22/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer23/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer24/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer25/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer26/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer27/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer28/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer29/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer30/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer31/sub-003/ses-001_middle.npy
+skip middle iter_0200000/layer32/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer0/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer1/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer2/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer3/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer4/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer5/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer6/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer7/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer8/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer9/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer10/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer11/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer12/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer13/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer14/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer15/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer16/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer17/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer18/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer19/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer20/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer21/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer22/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer23/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer24/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer25/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer26/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer27/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer28/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer29/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer30/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer31/sub-003/ses-001_middle.npy
+skip middle iter_0250000/layer32/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer0/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer1/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer2/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer3/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer4/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer5/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer6/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer7/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer8/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer9/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer10/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer11/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer12/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer13/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer14/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer15/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer16/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer17/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer18/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer19/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer20/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer21/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer22/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer23/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer24/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer25/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer26/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer27/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer28/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer29/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer30/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer31/sub-003/ses-001_middle.npy
+skip middle iter_0300000/layer32/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer0/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer1/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer2/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer3/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer4/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer5/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer6/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer7/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer8/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer9/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer10/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer11/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer12/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer13/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer14/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer15/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer16/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer17/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer18/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer19/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer20/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer21/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer22/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer23/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer24/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer25/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer26/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer27/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer28/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer29/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer30/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer31/sub-003/ses-001_middle.npy
+skip middle iter_0350000/layer32/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer0/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer1/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer2/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer3/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer4/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer5/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer6/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer7/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer8/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer9/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer10/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer11/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer12/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer13/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer14/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer15/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer16/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer17/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer18/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer19/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer20/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer21/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer22/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer23/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer24/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer25/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer26/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer27/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer28/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer29/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer30/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer31/sub-003/ses-001_middle.npy
+skip middle iter_0400000/layer32/sub-003/ses-001_middle.npy
+start moving YY_down to GPU at:  2024-10-26 04:58:01
+finish moving YY_down to GPU at:  2024-10-26 04:58:09
+step:  20 layer:  0 ses:  1 sub:  3 enter loop at:  2024-10-26 04:58:09
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 04:58:10 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 04:58:10
+finish moving X to GPU at:  2024-10-26 04:58:10
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  1 ses:  1 sub:  3 enter loop at:  2024-10-26 04:58:36
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 04:58:36 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 04:58:36
+finish moving X to GPU at:  2024-10-26 04:58:36
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  2 ses:  1 sub:  3 enter loop at:  2024-10-26 04:59:01
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 04:59:01 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 04:59:01
+finish moving X to GPU at:  2024-10-26 04:59:01
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  3 ses:  1 sub:  3 enter loop at:  2024-10-26 04:59:26
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 04:59:26 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 04:59:26
+finish moving X to GPU at:  2024-10-26 04:59:26
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  4 ses:  1 sub:  3 enter loop at:  2024-10-26 04:59:50
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 04:59:51 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 04:59:51
+finish moving X to GPU at:  2024-10-26 04:59:51
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  5 ses:  1 sub:  3 enter loop at:  2024-10-26 05:00:15
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:00:15 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:00:15
+finish moving X to GPU at:  2024-10-26 05:00:15
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  6 ses:  1 sub:  3 enter loop at:  2024-10-26 05:00:40
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:00:40 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:00:40
+finish moving X to GPU at:  2024-10-26 05:00:40
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  7 ses:  1 sub:  3 enter loop at:  2024-10-26 05:01:05
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:01:05 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:01:05
+finish moving X to GPU at:  2024-10-26 05:01:05
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  8 ses:  1 sub:  3 enter loop at:  2024-10-26 05:01:29
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:01:29 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:01:29
+finish moving X to GPU at:  2024-10-26 05:01:29
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  9 ses:  1 sub:  3 enter loop at:  2024-10-26 05:01:54
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:01:54 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:01:54
+finish moving X to GPU at:  2024-10-26 05:01:54
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  10 ses:  1 sub:  3 enter loop at:  2024-10-26 05:02:19
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:02:19 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:02:19
+finish moving X to GPU at:  2024-10-26 05:02:19
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  11 ses:  1 sub:  3 enter loop at:  2024-10-26 05:02:44
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:02:44 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:02:44
+finish moving X to GPU at:  2024-10-26 05:02:44
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  12 ses:  1 sub:  3 enter loop at:  2024-10-26 05:03:09
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:03:09 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:03:09
+finish moving X to GPU at:  2024-10-26 05:03:09
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  13 ses:  1 sub:  3 enter loop at:  2024-10-26 05:03:33
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:03:33 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:03:33
+finish moving X to GPU at:  2024-10-26 05:03:33
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  14 ses:  1 sub:  3 enter loop at:  2024-10-26 05:03:58
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:03:58 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:03:58
+finish moving X to GPU at:  2024-10-26 05:03:58
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  15 ses:  1 sub:  3 enter loop at:  2024-10-26 05:04:23
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:04:23 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:04:23
+finish moving X to GPU at:  2024-10-26 05:04:23
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  16 ses:  1 sub:  3 enter loop at:  2024-10-26 05:04:48
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:04:48 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:04:48
+finish moving X to GPU at:  2024-10-26 05:04:48
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  17 ses:  1 sub:  3 enter loop at:  2024-10-26 05:05:12
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:05:12 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:05:12
+finish moving X to GPU at:  2024-10-26 05:05:12
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  18 ses:  1 sub:  3 enter loop at:  2024-10-26 05:05:37
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:05:37 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:05:37
+finish moving X to GPU at:  2024-10-26 05:05:37
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  19 ses:  1 sub:  3 enter loop at:  2024-10-26 05:06:02
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:06:02 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:06:02
+finish moving X to GPU at:  2024-10-26 05:06:02
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  20 ses:  1 sub:  3 enter loop at:  2024-10-26 05:06:27
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:06:27 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:06:27
+finish moving X to GPU at:  2024-10-26 05:06:27
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  21 ses:  1 sub:  3 enter loop at:  2024-10-26 05:06:51
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:06:51 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:06:51
+finish moving X to GPU at:  2024-10-26 05:06:51
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  22 ses:  1 sub:  3 enter loop at:  2024-10-26 05:07:16
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:07:16 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:07:16
+finish moving X to GPU at:  2024-10-26 05:07:16
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  23 ses:  1 sub:  3 enter loop at:  2024-10-26 05:07:41
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:07:41 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:07:41
+finish moving X to GPU at:  2024-10-26 05:07:41
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  24 ses:  1 sub:  3 enter loop at:  2024-10-26 05:08:05
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:08:06 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:08:06
+finish moving X to GPU at:  2024-10-26 05:08:06
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  25 ses:  1 sub:  3 enter loop at:  2024-10-26 05:08:30
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:08:30 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:08:30
+finish moving X to GPU at:  2024-10-26 05:08:30
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  26 ses:  1 sub:  3 enter loop at:  2024-10-26 05:08:55
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:08:55 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:08:55
+finish moving X to GPU at:  2024-10-26 05:08:55
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  27 ses:  1 sub:  3 enter loop at:  2024-10-26 05:09:20
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:09:20 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:09:20
+finish moving X to GPU at:  2024-10-26 05:09:20
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  28 ses:  1 sub:  3 enter loop at:  2024-10-26 05:09:44
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:09:44 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:09:44
+finish moving X to GPU at:  2024-10-26 05:09:44
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  29 ses:  1 sub:  3 enter loop at:  2024-10-26 05:10:09
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:10:09 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:10:09
+finish moving X to GPU at:  2024-10-26 05:10:09
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  30 ses:  1 sub:  3 enter loop at:  2024-10-26 05:10:34
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:10:34 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:10:34
+finish moving X to GPU at:  2024-10-26 05:10:34
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  31 ses:  1 sub:  3 enter loop at:  2024-10-26 05:10:59
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:10:59 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:10:59
+finish moving X to GPU at:  2024-10-26 05:10:59
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  20 layer:  32 ses:  1 sub:  3 enter loop at:  2024-10-26 05:11:23
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:11:23 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:11:23
+finish moving X to GPU at:  2024-10-26 05:11:23
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  0 ses:  1 sub:  3 enter loop at:  2024-10-26 05:11:48
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:11:48 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:11:48
+finish moving X to GPU at:  2024-10-26 05:11:48
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  1 ses:  1 sub:  3 enter loop at:  2024-10-26 05:12:13
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:12:13 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:12:13
+finish moving X to GPU at:  2024-10-26 05:12:13
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  2 ses:  1 sub:  3 enter loop at:  2024-10-26 05:12:37
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:12:37 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:12:37
+finish moving X to GPU at:  2024-10-26 05:12:37
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  3 ses:  1 sub:  3 enter loop at:  2024-10-26 05:13:02
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:13:02 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:13:02
+finish moving X to GPU at:  2024-10-26 05:13:02
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  4 ses:  1 sub:  3 enter loop at:  2024-10-26 05:13:27
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:13:27 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:13:27
+finish moving X to GPU at:  2024-10-26 05:13:27
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  5 ses:  1 sub:  3 enter loop at:  2024-10-26 05:13:52
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:13:52 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:13:52
+finish moving X to GPU at:  2024-10-26 05:13:52
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  6 ses:  1 sub:  3 enter loop at:  2024-10-26 05:14:16
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:14:16 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:14:16
+finish moving X to GPU at:  2024-10-26 05:14:16
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  7 ses:  1 sub:  3 enter loop at:  2024-10-26 05:14:41
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:14:41 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:14:41
+finish moving X to GPU at:  2024-10-26 05:14:41
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  8 ses:  1 sub:  3 enter loop at:  2024-10-26 05:15:06
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:15:06 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:15:06
+finish moving X to GPU at:  2024-10-26 05:15:06
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  9 ses:  1 sub:  3 enter loop at:  2024-10-26 05:15:31
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:15:31 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:15:31
+finish moving X to GPU at:  2024-10-26 05:15:31
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  10 ses:  1 sub:  3 enter loop at:  2024-10-26 05:15:56
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:15:56 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:15:56
+finish moving X to GPU at:  2024-10-26 05:15:56
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  11 ses:  1 sub:  3 enter loop at:  2024-10-26 05:16:20
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:16:20 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:16:20
+finish moving X to GPU at:  2024-10-26 05:16:20
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  12 ses:  1 sub:  3 enter loop at:  2024-10-26 05:16:45
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:16:45 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:16:45
+finish moving X to GPU at:  2024-10-26 05:16:45
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  13 ses:  1 sub:  3 enter loop at:  2024-10-26 05:17:10
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:17:10 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:17:10
+finish moving X to GPU at:  2024-10-26 05:17:10
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  14 ses:  1 sub:  3 enter loop at:  2024-10-26 05:17:34
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:17:35 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:17:35
+finish moving X to GPU at:  2024-10-26 05:17:35
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  15 ses:  1 sub:  3 enter loop at:  2024-10-26 05:17:59
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:17:59 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:17:59
+finish moving X to GPU at:  2024-10-26 05:17:59
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  16 ses:  1 sub:  3 enter loop at:  2024-10-26 05:18:24
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:18:24 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:18:24
+finish moving X to GPU at:  2024-10-26 05:18:24
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  17 ses:  1 sub:  3 enter loop at:  2024-10-26 05:18:49
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:18:49 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:18:49
+finish moving X to GPU at:  2024-10-26 05:18:49
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  18 ses:  1 sub:  3 enter loop at:  2024-10-26 05:19:13
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:19:13 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:19:13
+finish moving X to GPU at:  2024-10-26 05:19:13
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  19 ses:  1 sub:  3 enter loop at:  2024-10-26 05:19:38
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:19:38 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:19:38
+finish moving X to GPU at:  2024-10-26 05:19:38
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  20 ses:  1 sub:  3 enter loop at:  2024-10-26 05:20:03
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:20:03 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:20:03
+finish moving X to GPU at:  2024-10-26 05:20:03
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  21 ses:  1 sub:  3 enter loop at:  2024-10-26 05:20:27
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:20:28 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:20:28
+finish moving X to GPU at:  2024-10-26 05:20:28
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  22 ses:  1 sub:  3 enter loop at:  2024-10-26 05:20:52
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:20:52 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:20:52
+finish moving X to GPU at:  2024-10-26 05:20:52
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  23 ses:  1 sub:  3 enter loop at:  2024-10-26 05:21:17
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:21:17 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:21:17
+finish moving X to GPU at:  2024-10-26 05:21:17
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  24 ses:  1 sub:  3 enter loop at:  2024-10-26 05:21:42
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:21:42 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:21:42
+finish moving X to GPU at:  2024-10-26 05:21:42
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  25 ses:  1 sub:  3 enter loop at:  2024-10-26 05:22:06
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:22:06 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:22:06
+finish moving X to GPU at:  2024-10-26 05:22:06
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  26 ses:  1 sub:  3 enter loop at:  2024-10-26 05:22:31
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:22:31 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:22:31
+finish moving X to GPU at:  2024-10-26 05:22:31
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000.0 k: 0
+Processing alpha: 10000000.0 k: 1
+Processing alpha: 10000000.0 k: 2
+Processing alpha: 10000000.0 k: 3
+Processing alpha: 10000000.0 k: 4
+Processing alpha: 100000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000000.0 k: 0
+Processing alpha: 100000000.0 k: 1
+Processing alpha: 100000000.0 k: 2
+Processing alpha: 100000000.0 k: 3
+Processing alpha: 100000000.0 k: 4
+Processing alpha: 1000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000000.0 k: 0
+Processing alpha: 1000000000.0 k: 1
+Processing alpha: 1000000000.0 k: 2
+Processing alpha: 1000000000.0 k: 3
+Processing alpha: 1000000000.0 k: 4
+Processing alpha: 10000000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 10000000000.0 k: 0
+Processing alpha: 10000000000.0 k: 1
+Processing alpha: 10000000000.0 k: 2
+Processing alpha: 10000000000.0 k: 3
+Processing alpha: 10000000000.0 k: 4
+session:1 GPU calculation complete
+CRs shape: (5124, 101, 6)
+step:  25 layer:  27 ses:  1 sub:  3 enter loop at:  2024-10-26 05:22:56
+torch.Size([8418, 300])
+start single computing at:  2024-10-26 05:22:56 ses:  1 sub:  3
+start moving X to GPU at:  2024-10-26 05:22:56
+finish moving X to GPU at:  2024-10-26 05:22:56
+Processing alpha: 100000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 100000.0 k: 0
+Processing alpha: 100000.0 k: 1
+Processing alpha: 100000.0 k: 2
+Processing alpha: 100000.0 k: 3
+Processing alpha: 100000.0 k: 4
+Processing alpha: 1000000.0
+torch.Size([8418, 300]) torch.Size([8418, 5124, 301])
+Processing alpha: 1000000.0 k: 0
+Processing alpha: 1000000.0 k: 1
+Processing alpha: 1000000.0 k: 2
+Processing alpha: 1000000.0 k: 3
+Processing alpha: 1000000.0 k: 4
+Processing alpha: 10000000.0
+torch.Size([8418, 300]) 
